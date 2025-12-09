@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ERP application for Driving schools based on microservices<br>🤝 I’m looking for help with finding a job<br>🌱 I’m currently learning C++,React<br>⚡ Fun fact: i created a lot of server scripts in bash for Arma 3 server handling
+🔭 I’m currently working on few discordBots some of them should be public in 2k26<br>🤝 I’m looking for help with finding a job<br>🌱 I’m currently learning C++,React<br>⚡ Fun fact: i created a lot of server scripts in bash for Arma 3 server handling
 
 
 ## 🌐 Socials:
